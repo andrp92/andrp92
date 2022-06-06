@@ -104,6 +104,7 @@ me.say_hi()
 <div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=andrp92&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Andrés' Activity Graph" /></a>
 </div>
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/andrp92/andrp92/pull/1) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
 2. ❌ Closed PR [#956](https://github.com/indexa-git/l10n-dominicana/pull/956) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
@@ -116,6 +117,7 @@ me.say_hi()
 9. 🗣 Commented on [#338](https://github.com/fonoster/fonoster/issues/338) in [fonoster/fonoster](https://github.com/fonoster/fonoster)
 10. 🗣 Commented on [#338](https://github.com/fonoster/fonoster/issues/338) in [fonoster/fonoster](https://github.com/fonoster/fonoster)
 <!--END_SECTION:activity-->
+
 </details>
 
 ---
