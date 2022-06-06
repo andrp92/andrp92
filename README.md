@@ -105,6 +105,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=andrp92&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Andrés' Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/andrp92/andrp92/pull/1) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+2. ❌ Closed PR [#956](https://github.com/indexa-git/l10n-dominicana/pull/956) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+3. 🎉 Merged PR [#1](https://github.com/indexa-git/odoo-windiescorp/pull/1) in [indexa-git/odoo-windiescorp](https://github.com/indexa-git/odoo-windiescorp)
+4. 💪 Opened PR [#1](https://github.com/indexa-git/odoo-windiescorp/pull/1) in [indexa-git/odoo-windiescorp](https://github.com/indexa-git/odoo-windiescorp)
+5. 🎉 Merged PR [#167](https://github.com/indexa-git/external-service-addons/pull/167) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+6. 🎉 Merged PR [#166](https://github.com/indexa-git/external-service-addons/pull/166) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+7. 🎉 Merged PR [#165](https://github.com/indexa-git/external-service-addons/pull/165) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+8. 🎉 Merged PR [#164](https://github.com/indexa-git/external-service-addons/pull/164) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+9. 🗣 Commented on [#338](https://github.com/fonoster/fonoster/issues/338) in [fonoster/fonoster](https://github.com/fonoster/fonoster)
+10. 🗣 Commented on [#338](https://github.com/fonoster/fonoster/issues/338) in [fonoster/fonoster](https://github.com/fonoster/fonoster)
 <!--END_SECTION:activity-->
 </details>
 
