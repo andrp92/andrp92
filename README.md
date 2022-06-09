@@ -106,16 +106,16 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/andrp92/andrp92/pull/1) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-2. ❌ Closed PR [#956](https://github.com/indexa-git/l10n-dominicana/pull/956) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-3. 🎉 Merged PR [#1](https://github.com/indexa-git/odoo-windiescorp/pull/1) in [indexa-git/odoo-windiescorp](https://github.com/indexa-git/odoo-windiescorp)
-4. 💪 Opened PR [#1](https://github.com/indexa-git/odoo-windiescorp/pull/1) in [indexa-git/odoo-windiescorp](https://github.com/indexa-git/odoo-windiescorp)
-5. 🎉 Merged PR [#167](https://github.com/indexa-git/external-service-addons/pull/167) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-6. 🎉 Merged PR [#166](https://github.com/indexa-git/external-service-addons/pull/166) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-7. 🎉 Merged PR [#165](https://github.com/indexa-git/external-service-addons/pull/165) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-8. 🎉 Merged PR [#164](https://github.com/indexa-git/external-service-addons/pull/164) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-9. 🗣 Commented on [#338](https://github.com/fonoster/fonoster/issues/338) in [fonoster/fonoster](https://github.com/fonoster/fonoster)
-10. 🗣 Commented on [#338](https://github.com/fonoster/fonoster/issues/338) in [fonoster/fonoster](https://github.com/fonoster/fonoster)
+1. 🎉 Merged PR [#169](https://github.com/indexa-git/external-service-addons/pull/169) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+2. 🎉 Merged PR [#4](https://github.com/andrp92/andrp92/pull/4) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+3. 💪 Opened PR [#4](https://github.com/andrp92/andrp92/pull/4) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+4. 🎉 Merged PR [#3](https://github.com/andrp92/andrp92/pull/3) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+5. 🎉 Merged PR [#2](https://github.com/andrp92/andrp92/pull/2) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+6. 🗣 Commented on [#2](https://github.com/andrp92/andrp92/issues/2) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+7. 🗣 Commented on [#2](https://github.com/andrp92/andrp92/issues/2) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+8. 🗣 Commented on [#3](https://github.com/andrp92/andrp92/issues/3) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+9. 🎉 Merged PR [#1](https://github.com/andrp92/andrp92/pull/1) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+10. 💪 Opened PR [#1](https://github.com/andrp92/andrp92/pull/1) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
 <!--END_SECTION:activity-->
 
 </details>
