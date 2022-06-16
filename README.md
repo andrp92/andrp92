@@ -106,16 +106,16 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#169](https://github.com/indexa-git/external-service-addons/pull/169) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-2. 🎉 Merged PR [#4](https://github.com/andrp92/andrp92/pull/4) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-3. 💪 Opened PR [#4](https://github.com/andrp92/andrp92/pull/4) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-4. 🎉 Merged PR [#3](https://github.com/andrp92/andrp92/pull/3) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-5. 🎉 Merged PR [#2](https://github.com/andrp92/andrp92/pull/2) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-6. 🗣 Commented on [#2](https://github.com/andrp92/andrp92/issues/2) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-7. 🗣 Commented on [#2](https://github.com/andrp92/andrp92/issues/2) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-8. 🗣 Commented on [#3](https://github.com/andrp92/andrp92/issues/3) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-9. 🎉 Merged PR [#1](https://github.com/andrp92/andrp92/pull/1) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-10. 💪 Opened PR [#1](https://github.com/andrp92/andrp92/pull/1) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+1. ❗️ Closed issue [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
+2. 🗣 Commented on [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
+3. ❗️ Opened issue [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
+4. ❗️ Opened issue [#1](https://github.com/andrp92/monitoring-umami/issues/1) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
+5. ❗️ Opened issue [#1](https://github.com/andrp92/terraform-umami/issues/1) in [andrp92/terraform-umami](https://github.com/andrp92/terraform-umami)
+6. ❗️ Closed issue [#1](https://github.com/andrp92/logs-analyzer/issues/1) in [andrp92/logs-analyzer](https://github.com/andrp92/logs-analyzer)
+7. 🗣 Commented on [#1](https://github.com/andrp92/logs-analyzer/issues/1) in [andrp92/logs-analyzer](https://github.com/andrp92/logs-analyzer)
+8. ❗️ Opened issue [#1](https://github.com/andrp92/logs-analyzer/issues/1) in [andrp92/logs-analyzer](https://github.com/andrp92/logs-analyzer)
+9. 💪 Opened PR [#960](https://github.com/indexa-git/l10n-dominicana/pull/960) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+10. ❌ Closed PR [#958](https://github.com/indexa-git/l10n-dominicana/pull/958) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
 <!--END_SECTION:activity-->
 
 </details>
