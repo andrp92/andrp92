@@ -106,16 +106,16 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
-2. 🗣 Commented on [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
-3. ❗️ Opened issue [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
-4. ❗️ Opened issue [#1](https://github.com/andrp92/monitoring-umami/issues/1) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
-5. ❗️ Opened issue [#1](https://github.com/andrp92/terraform-umami/issues/1) in [andrp92/terraform-umami](https://github.com/andrp92/terraform-umami)
-6. ❗️ Closed issue [#1](https://github.com/andrp92/logs-analyzer/issues/1) in [andrp92/logs-analyzer](https://github.com/andrp92/logs-analyzer)
-7. 🗣 Commented on [#1](https://github.com/andrp92/logs-analyzer/issues/1) in [andrp92/logs-analyzer](https://github.com/andrp92/logs-analyzer)
-8. ❗️ Opened issue [#1](https://github.com/andrp92/logs-analyzer/issues/1) in [andrp92/logs-analyzer](https://github.com/andrp92/logs-analyzer)
-9. 💪 Opened PR [#960](https://github.com/indexa-git/l10n-dominicana/pull/960) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-10. ❌ Closed PR [#958](https://github.com/indexa-git/l10n-dominicana/pull/958) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+1. 🎉 Merged PR [#963](https://github.com/indexa-git/l10n-dominicana/pull/963) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+2. 🗣 Commented on [#963](https://github.com/indexa-git/l10n-dominicana/issues/963) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+3. 🎉 Merged PR [#961](https://github.com/indexa-git/l10n-dominicana/pull/961) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+4. ❗️ Closed issue [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
+5. 🗣 Commented on [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
+6. ❗️ Opened issue [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
+7. ❗️ Opened issue [#1](https://github.com/andrp92/monitoring-umami/issues/1) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
+8. ❗️ Opened issue [#1](https://github.com/andrp92/terraform-umami/issues/1) in [andrp92/terraform-umami](https://github.com/andrp92/terraform-umami)
+9. ❗️ Closed issue [#1](https://github.com/andrp92/logs-analyzer/issues/1) in [andrp92/logs-analyzer](https://github.com/andrp92/logs-analyzer)
+10. 🗣 Commented on [#1](https://github.com/andrp92/logs-analyzer/issues/1) in [andrp92/logs-analyzer](https://github.com/andrp92/logs-analyzer)
 <!--END_SECTION:activity-->
 
 </details>
