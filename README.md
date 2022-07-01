@@ -14,7 +14,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Andrés Rodríguez"
         self.spoken_languages = ["es_ES", "en_US"]
-        self.roles = ["DevOps Engineer", "Team Lead", "Product Manager", "SysAdmin"]
+        self.roles = ["DevOps Engineer", "Team Leader", "Product Manager", "SysAdmin"]
         self.main_skills = ["DevOps", "Cloud Architecture", "Management"]
         self.architectures = ["SPA", "MVC", "Serverless", "Microservices"]
 
@@ -49,7 +49,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=1793D1)
 ![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
-![](https://img.shields.io/badge/-MacOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-macOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
 <br>
 **Programming Languages**<br>
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
@@ -76,6 +76,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/-Github_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF)
 ![](https://img.shields.io/badge/-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC)
+![](https://img.shields.io/badge/-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=222222)
 <br>
 **Software and Tools**<br>
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
@@ -95,6 +96,10 @@ me.say_hi()
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="150px" style="margin:0px 7px 15px 7px;" src="https://github-readme-stats.vercel.app/api?username=andrp92&count_private=true&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Andrés' GitHub stats" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="150px" style="margin:0px 7px 15px 7px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrp92&layout=compact&langs_count=8&theme=nord" alt="Andrés' Top Langs" />
   </a>
 
 </div>
