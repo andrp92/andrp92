@@ -14,7 +14,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Andrés Rodríguez"
         self.spoken_languages = ["es_ES", "en_US"]
-        self.roles = ["DevOps Engineer", "Product Manager", "SysAdmin"]
+        self.roles = ["DevOps Engineer", "Team Lead", "Product Manager", "SysAdmin"]
         self.main_skills = ["DevOps", "Cloud Architecture", "Management"]
         self.architectures = ["SPA", "MVC", "Serverless", "Microservices"]
 
