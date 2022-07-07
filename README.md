@@ -111,10 +111,10 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#171](https://github.com/indexa-git/external-service-addons/pull/171) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-2. 🎉 Merged PR [#170](https://github.com/indexa-git/external-service-addons/pull/170) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-3. 🎉 Merged PR [#961](https://github.com/indexa-git/l10n-dominicana/pull/961) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-4. ❗️ Closed issue [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
+1. 🎉 Merged PR [#173](https://github.com/indexa-git/external-service-addons/pull/173) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+2. 🎉 Merged PR [#172](https://github.com/indexa-git/external-service-addons/pull/172) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+3. 🎉 Merged PR [#171](https://github.com/indexa-git/external-service-addons/pull/171) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+4. 🎉 Merged PR [#170](https://github.com/indexa-git/external-service-addons/pull/170) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
 5. 🗣 Commented on [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
 6. ❗️ Opened issue [#2](https://github.com/andrp92/monitoring-umami/issues/2) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
 7. ❗️ Opened issue [#1](https://github.com/andrp92/monitoring-umami/issues/1) in [andrp92/monitoring-umami](https://github.com/andrp92/monitoring-umami)
