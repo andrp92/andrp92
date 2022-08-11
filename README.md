@@ -111,16 +111,16 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#967](https://github.com/indexa-git/l10n-dominicana/pull/967) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-2. 💪 Opened PR [#967](https://github.com/indexa-git/l10n-dominicana/pull/967) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-3. 🎉 Merged PR [#5](https://github.com/andrp92/andrp92/pull/5) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-4. 🗣 Commented on [#5](https://github.com/andrp92/andrp92/issues/5) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-5. 🎉 Merged PR [#173](https://github.com/indexa-git/external-service-addons/pull/173) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-6. 🎉 Merged PR [#172](https://github.com/indexa-git/external-service-addons/pull/172) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-7. 🎉 Merged PR [#171](https://github.com/indexa-git/external-service-addons/pull/171) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-8. 🎉 Merged PR [#170](https://github.com/indexa-git/external-service-addons/pull/170) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-9. ❗️ Closed issue [#1](https://github.com/andrp92/logs-analyzer/issues/1) in [andrp92/logs-analyzer](https://github.com/andrp92/logs-analyzer)
-10. 🗣 Commented on [#1](https://github.com/andrp92/logs-analyzer/issues/1) in [andrp92/logs-analyzer](https://github.com/andrp92/logs-analyzer)
+1. ❗️ Closed issue [#974](https://github.com/indexa-git/l10n-dominicana/issues/974) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+2. ❗️ Opened issue [#974](https://github.com/indexa-git/l10n-dominicana/issues/974) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+3. 🗣 Commented on [#255](https://github.com/OCA/server-auth/issues/255) in [OCA/server-auth](https://github.com/OCA/server-auth)
+4. 🗣 Commented on [#255](https://github.com/OCA/server-auth/issues/255) in [OCA/server-auth](https://github.com/OCA/server-auth)
+5. 🎉 Merged PR [#967](https://github.com/indexa-git/l10n-dominicana/pull/967) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+6. 💪 Opened PR [#967](https://github.com/indexa-git/l10n-dominicana/pull/967) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+7. 🎉 Merged PR [#5](https://github.com/andrp92/andrp92/pull/5) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+8. 🗣 Commented on [#5](https://github.com/andrp92/andrp92/issues/5) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+9. 🎉 Merged PR [#173](https://github.com/indexa-git/external-service-addons/pull/173) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+10. 🎉 Merged PR [#172](https://github.com/indexa-git/external-service-addons/pull/172) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
 <!--END_SECTION:activity-->
 
 </details>
