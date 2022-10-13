@@ -111,16 +111,16 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1003](https://github.com/indexa-git/l10n-dominicana/pull/1003) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-2. 🗣 Commented on [#1274](https://github.com/OCA/partner-contact/issues/1274) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
-3. 🎉 Merged PR [#149](https://github.com/iterativo-git/dockerdoo/pull/149) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
-4. 💪 Opened PR [#149](https://github.com/iterativo-git/dockerdoo/pull/149) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
-5. 💪 Opened PR [#2](https://github.com/jakub-g/git-move-folder-between-repos-keep-history/pull/2) in [jakub-g/git-move-folder-between-repos-keep-history](https://github.com/jakub-g/git-move-folder-between-repos-keep-history)
-6. 🎉 Merged PR [#182](https://github.com/indexa-git/external-service-addons/pull/182) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-7. ❗️ Closed issue [#974](https://github.com/indexa-git/l10n-dominicana/issues/974) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-8. ❗️ Opened issue [#974](https://github.com/indexa-git/l10n-dominicana/issues/974) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-9. 🗣 Commented on [#255](https://github.com/OCA/server-auth/issues/255) in [OCA/server-auth](https://github.com/OCA/server-auth)
-10. 🗣 Commented on [#255](https://github.com/OCA/server-auth/issues/255) in [OCA/server-auth](https://github.com/OCA/server-auth)
+1. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+2. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+3. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+4. 🗣 Commented on [#1274](https://github.com/OCA/partner-contact/issues/1274) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+5. 🎉 Merged PR [#1003](https://github.com/indexa-git/l10n-dominicana/pull/1003) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+6. 🗣 Commented on [#1274](https://github.com/OCA/partner-contact/issues/1274) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+7. 🎉 Merged PR [#149](https://github.com/iterativo-git/dockerdoo/pull/149) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+8. 💪 Opened PR [#149](https://github.com/iterativo-git/dockerdoo/pull/149) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+9. 💪 Opened PR [#2](https://github.com/jakub-g/git-move-folder-between-repos-keep-history/pull/2) in [jakub-g/git-move-folder-between-repos-keep-history](https://github.com/jakub-g/git-move-folder-between-repos-keep-history)
+10. 🎉 Merged PR [#182](https://github.com/indexa-git/external-service-addons/pull/182) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
 <!--END_SECTION:activity-->
 
 </details>
