@@ -112,15 +112,15 @@ me.say_hi()
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
-2. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+2. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
 3. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 4. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 5. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 6. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
-7. 🗣 Commented on [#1274](https://github.com/OCA/partner-contact/issues/1274) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
-8. 🎉 Merged PR [#1003](https://github.com/indexa-git/l10n-dominicana/pull/1003) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-9. 🗣 Commented on [#1274](https://github.com/OCA/partner-contact/issues/1274) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
-10. 🎉 Merged PR [#149](https://github.com/iterativo-git/dockerdoo/pull/149) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+7. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+8. 🗣 Commented on [#1274](https://github.com/OCA/partner-contact/issues/1274) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+9. 🎉 Merged PR [#1003](https://github.com/indexa-git/l10n-dominicana/pull/1003) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+10. 🗣 Commented on [#1274](https://github.com/OCA/partner-contact/issues/1274) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
 <!--END_SECTION:activity-->
 
 </details>
