@@ -111,15 +111,15 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
-2. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
-3. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
-4. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+1. 🎉 Merged PR [#1](https://github.com/andrp92/odoo-sh-maintenance/pull/1) in [andrp92/odoo-sh-maintenance](https://github.com/andrp92/odoo-sh-maintenance)
+2. 💪 Opened PR [#1](https://github.com/andrp92/odoo-sh-maintenance/pull/1) in [andrp92/odoo-sh-maintenance](https://github.com/andrp92/odoo-sh-maintenance)
+3. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+4. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
 5. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 6. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 7. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
-8. 🗣 Commented on [#1274](https://github.com/OCA/partner-contact/issues/1274) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
-9. 🎉 Merged PR [#1003](https://github.com/indexa-git/l10n-dominicana/pull/1003) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+8. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+9. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 10. 🗣 Commented on [#1274](https://github.com/OCA/partner-contact/issues/1274) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
 <!--END_SECTION:activity-->
 
