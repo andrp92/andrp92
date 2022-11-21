@@ -111,8 +111,8 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/andrp92/odoo-sh-maintenance/pull/1) in [andrp92/odoo-sh-maintenance](https://github.com/andrp92/odoo-sh-maintenance)
-2. 💪 Opened PR [#1](https://github.com/andrp92/odoo-sh-maintenance/pull/1) in [andrp92/odoo-sh-maintenance](https://github.com/andrp92/odoo-sh-maintenance)
+1. 🎉 Merged PR [#8](https://github.com/andrp92/andrp92/pull/8) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+2. 🎉 Merged PR [#7](https://github.com/andrp92/andrp92/pull/7) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
 3. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
 4. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
 5. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
