@@ -111,16 +111,16 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/andrp92/andrp92/pull/8) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-2. 🎉 Merged PR [#7](https://github.com/andrp92/andrp92/pull/7) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-3. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+1. 🎉 Merged PR [#9](https://github.com/andrp92/andrp92/pull/9) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+2. 🎉 Merged PR [#8](https://github.com/andrp92/andrp92/pull/8) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+3. 🎉 Merged PR [#7](https://github.com/andrp92/andrp92/pull/7) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
 4. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
-5. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
+5. 🗣 Commented on [#1322](https://github.com/OCA/partner-contact/issues/1322) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
 6. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 7. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 8. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 9. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
-10. 🗣 Commented on [#1274](https://github.com/OCA/partner-contact/issues/1274) in [OCA/partner-contact](https://github.com/OCA/partner-contact)
+10. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 <!--END_SECTION:activity-->
 
 </details>
