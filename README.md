@@ -111,13 +111,13 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/timothymiller/cloudflare-ddns/issues/117) in [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns)
-2. 🗣 Commented on [#361](https://github.com/ddclient/ddclient/issues/361) in [ddclient/ddclient](https://github.com/ddclient/ddclient)
+1. 🎉 Merged PR [#1036](https://github.com/indexa-git/l10n-dominicana/pull/1036) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+2. 🗣 Commented on [#117](https://github.com/timothymiller/cloudflare-ddns/issues/117) in [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns)
 3. 🗣 Commented on [#361](https://github.com/ddclient/ddclient/issues/361) in [ddclient/ddclient](https://github.com/ddclient/ddclient)
-4. 🗣 Commented on [#7083](https://github.com/microsoft/vscode-remote-release/issues/7083) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+4. 🗣 Commented on [#361](https://github.com/ddclient/ddclient/issues/361) in [ddclient/ddclient](https://github.com/ddclient/ddclient)
 5. 🗣 Commented on [#7083](https://github.com/microsoft/vscode-remote-release/issues/7083) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-6. 🎉 Merged PR [#9](https://github.com/andrp92/andrp92/pull/9) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-7. 🎉 Merged PR [#8](https://github.com/andrp92/andrp92/pull/8) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+6. 🗣 Commented on [#7083](https://github.com/microsoft/vscode-remote-release/issues/7083) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+7. 🎉 Merged PR [#9](https://github.com/andrp92/andrp92/pull/9) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
 8. 🎉 Merged PR [#7](https://github.com/andrp92/andrp92/pull/7) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
 9. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
 10. 🗣 Commented on [#1156](https://github.com/OCA/product-attribute/issues/1156) in [OCA/product-attribute](https://github.com/OCA/product-attribute)
