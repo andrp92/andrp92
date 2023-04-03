@@ -111,16 +111,16 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#150](https://github.com/iterativo-git/dockerdoo/pull/150) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
-2. 💪 Opened PR [#150](https://github.com/iterativo-git/dockerdoo/pull/150) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
-3. 🎉 Merged PR [#2](https://github.com/andrp92/odoo-sh-maintenance/pull/2) in [andrp92/odoo-sh-maintenance](https://github.com/andrp92/odoo-sh-maintenance)
-4. 💪 Opened PR [#2](https://github.com/andrp92/odoo-sh-maintenance/pull/2) in [andrp92/odoo-sh-maintenance](https://github.com/andrp92/odoo-sh-maintenance)
-5. 🗣 Commented on [#9](https://github.com/edblanco/TriviaGame/issues/9) in [edblanco/TriviaGame](https://github.com/edblanco/TriviaGame)
-6. 🎉 Merged PR [#1038](https://github.com/indexa-git/l10n-dominicana/pull/1038) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-7. 💪 Opened PR [#1038](https://github.com/indexa-git/l10n-dominicana/pull/1038) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-8. 🎉 Merged PR [#1037](https://github.com/indexa-git/l10n-dominicana/pull/1037) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-9. 🗣 Commented on [#92087](https://github.com/odoo/odoo/issues/92087) in [odoo/odoo](https://github.com/odoo/odoo)
-10. 🗣 Commented on [#92087](https://github.com/odoo/odoo/issues/92087) in [odoo/odoo](https://github.com/odoo/odoo)
+1. 🎉 Merged PR [#1042](https://github.com/indexa-git/l10n-dominicana/pull/1042) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+2. 🎉 Merged PR [#1041](https://github.com/indexa-git/l10n-dominicana/pull/1041) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+3. 💪 Opened PR [#1041](https://github.com/indexa-git/l10n-dominicana/pull/1041) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+4. 🎉 Merged PR [#150](https://github.com/iterativo-git/dockerdoo/pull/150) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+5. 💪 Opened PR [#150](https://github.com/iterativo-git/dockerdoo/pull/150) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+6. 🎉 Merged PR [#2](https://github.com/andrp92/odoo-sh-maintenance/pull/2) in [andrp92/odoo-sh-maintenance](https://github.com/andrp92/odoo-sh-maintenance)
+7. 💪 Opened PR [#2](https://github.com/andrp92/odoo-sh-maintenance/pull/2) in [andrp92/odoo-sh-maintenance](https://github.com/andrp92/odoo-sh-maintenance)
+8. 🗣 Commented on [#9](https://github.com/edblanco/TriviaGame/issues/9) in [edblanco/TriviaGame](https://github.com/edblanco/TriviaGame)
+9. 🎉 Merged PR [#1038](https://github.com/indexa-git/l10n-dominicana/pull/1038) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+10. 💪 Opened PR [#1038](https://github.com/indexa-git/l10n-dominicana/pull/1038) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
 <!--END_SECTION:activity-->
 
 </details>
