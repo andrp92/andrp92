@@ -105,10 +105,8 @@ me.say_hi()
 </div>
 
 <details>
+
   <summary>⚡ Recent GitHub Activity</summary>
-<div>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=andrp92&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Andrés' Activity Graph" /></a>
-</div>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1042](https://github.com/indexa-git/l10n-dominicana/pull/1042) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
