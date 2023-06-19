@@ -113,12 +113,12 @@ me.say_hi()
 2. 🗣 Commented on [#386](https://github.com/ddclient/ddclient/issues/386) in [ddclient/ddclient](https://github.com/ddclient/ddclient)
 3. 🗣 Commented on [#386](https://github.com/ddclient/ddclient/issues/386) in [ddclient/ddclient](https://github.com/ddclient/ddclient)
 4. 🗣 Commented on [#386](https://github.com/ddclient/ddclient/issues/386) in [ddclient/ddclient](https://github.com/ddclient/ddclient)
-5. 🗣 Commented on [#21](https://github.com/edblanco/TriviaGame/issues/21) in [edblanco/TriviaGame](https://github.com/edblanco/TriviaGame)
-6. 💪 Opened PR [#21](https://github.com/edblanco/TriviaGame/pull/21) in [edblanco/TriviaGame](https://github.com/edblanco/TriviaGame)
-7. 🎉 Merged PR [#1042](https://github.com/indexa-git/l10n-dominicana/pull/1042) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-8. 🎉 Merged PR [#1041](https://github.com/indexa-git/l10n-dominicana/pull/1041) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-9. 💪 Opened PR [#1041](https://github.com/indexa-git/l10n-dominicana/pull/1041) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-10. 🎉 Merged PR [#150](https://github.com/iterativo-git/dockerdoo/pull/150) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+5. 🗣 Commented on [#386](https://github.com/ddclient/ddclient/issues/386) in [ddclient/ddclient](https://github.com/ddclient/ddclient)
+6. 🗣 Commented on [#21](https://github.com/edblanco/TriviaGame/issues/21) in [edblanco/TriviaGame](https://github.com/edblanco/TriviaGame)
+7. 💪 Opened PR [#21](https://github.com/edblanco/TriviaGame/pull/21) in [edblanco/TriviaGame](https://github.com/edblanco/TriviaGame)
+8. 🎉 Merged PR [#1042](https://github.com/indexa-git/l10n-dominicana/pull/1042) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+9. 🎉 Merged PR [#1041](https://github.com/indexa-git/l10n-dominicana/pull/1041) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+10. 💪 Opened PR [#1041](https://github.com/indexa-git/l10n-dominicana/pull/1041) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
 <!--END_SECTION:activity-->
 
 </details>
