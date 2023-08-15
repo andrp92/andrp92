@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-andresrp-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresrp/)](https://www.linkedin.com/in/andresrp/)
-[![Twitter Badge](https://img.shields.io/badge/-@andRP92-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AndRP92)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fandrp92r&screen_name=AndRP92)
+[![Twitter Badge](https://img.shields.io/badge/-@andRP92-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AndRP92)](https://twitter.com/intent/follow?original_referer=https://github.com/andrp92&screen_name=AndRP92)
 [![Gmail Badge](https://img.shields.io/badge/-androdriguez14-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:androdriguez14@gmail.com)](mailto:androdriguez14@gmail.com)
 
 ```python
