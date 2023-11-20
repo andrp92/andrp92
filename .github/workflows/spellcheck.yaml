@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: rojopolis/spellcheck-github-actions@0.34.0
+    - uses: rojopolis/spellcheck-github-actions@0.35.0
       name: Spellcheck
       continue-on-error: true
       with:
