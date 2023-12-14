@@ -109,16 +109,16 @@ me.say_hi()
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92087](https://github.com/odoo/odoo/issues/92087#issuecomment-1809309765) in [odoo/odoo](https://github.com/odoo/odoo)
-2. 🎉 Merged PR [#15](https://github.com/andrp92/andrp92/pull/15) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-3. 🎉 Merged PR [#186](https://github.com/indexa-git/external-service-addons/pull/186) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-4. 🗣 Commented on [#1098](https://github.com/OCA/hr/pull/1098#issuecomment-1736751918) in [OCA/hr](https://github.com/OCA/hr)
-5. 💪 Opened PR [#186](https://github.com/indexa-git/external-service-addons/pull/186) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-6. 🗣 Commented on [#60](https://github.com/KnugiHK/WhatsApp-Chat-Exporter/pull/60#issuecomment-1731487355) in [KnugiHK/WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter)
-7. 🗣 Commented on [#14](https://github.com/indexa-git/pyazul/pull/14#issuecomment-1728215928) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-8. 🗣 Commented on [#60](https://github.com/ruzickap/action-my-markdown-link-checker/issues/60#issuecomment-1727621936) in [ruzickap/action-my-markdown-link-checker](https://github.com/ruzickap/action-my-markdown-link-checker)
-9. 🎉 Merged PR [#13](https://github.com/andrp92/andrp92/pull/13) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
-10. 🗣 Commented on [#60](https://github.com/KnugiHK/WhatsApp-Chat-Exporter/pull/60#issuecomment-1722600643) in [KnugiHK/WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter)
+1. ❌ Closed PR [#152](https://github.com/iterativo-git/dockerdoo/pull/152) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+2. 💪 Opened PR [#153](https://github.com/iterativo-git/dockerdoo/pull/153) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+3. 💪 Opened PR [#152](https://github.com/iterativo-git/dockerdoo/pull/152) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+4. 🗣 Commented on [#92087](https://github.com/odoo/odoo/issues/92087#issuecomment-1809309765) in [odoo/odoo](https://github.com/odoo/odoo)
+5. 🎉 Merged PR [#15](https://github.com/andrp92/andrp92/pull/15) in [andrp92/andrp92](https://github.com/andrp92/andrp92)
+6. 🎉 Merged PR [#186](https://github.com/indexa-git/external-service-addons/pull/186) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+7. 🗣 Commented on [#1098](https://github.com/OCA/hr/pull/1098#issuecomment-1736751918) in [OCA/hr](https://github.com/OCA/hr)
+8. 💪 Opened PR [#186](https://github.com/indexa-git/external-service-addons/pull/186) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
+9. 🗣 Commented on [#60](https://github.com/KnugiHK/WhatsApp-Chat-Exporter/pull/60#issuecomment-1731487355) in [KnugiHK/WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter)
+10. 🗣 Commented on [#14](https://github.com/indexa-git/pyazul/pull/14#issuecomment-1728215928) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
 <!--END_SECTION:activity-->
 
 </details>
